@@ -1,0 +1,4 @@
+Publishing domain: stated.ai
+Author: Stated
+Time: Thu, 19 Oct 2023 15:57:26 GMT
+Statement content: hi
